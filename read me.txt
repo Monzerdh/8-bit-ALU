@@ -1,0 +1,7 @@
+the file ALU.circ is a logisim file 
+in order to open it you have to download logisim from the link below:
+https://sourceforge.net/projects/circuit/
+
+open logisim
+file>>open>>choose "ALU.circ"
+
